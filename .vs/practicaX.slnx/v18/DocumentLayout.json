@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\practicaX\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{248C9E7E-2851-B810-0308-A2015BAB9318}|practicaX.csproj|c:\\users\\lenovo\\source\\repos\\practicax\\endpoints\\planetendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{248C9E7E-2851-B810-0308-A2015BAB9318}|practicaX.csproj|solutionrelative:endpoints\\planetendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{248C9E7E-2851-B810-0308-A2015BAB9318}|practicaX.csproj|c:\\users\\lenovo\\source\\repos\\practicax\\models\\planets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{248C9E7E-2851-B810-0308-A2015BAB9318}|practicaX.csproj|solutionrelative:models\\planets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{248C9E7E-2851-B810-0308-A2015BAB9318}|practicaX.csproj|c:\\users\\lenovo\\source\\repos\\practicax\\models\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{248C9E7E-2851-B810-0308-A2015BAB9318}|practicaX.csproj|solutionrelative:models\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{248C9E7E-2851-B810-0308-A2015BAB9318}|practicaX.csproj|c:\\users\\lenovo\\source\\repos\\practicax\\models\\starship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{248C9E7E-2851-B810-0308-A2015BAB9318}|practicaX.csproj|solutionrelative:models\\starship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{248C9E7E-2851-B810-0308-A2015BAB9318}|practicaX.csproj|c:\\users\\lenovo\\source\\repos\\practicax\\practicax.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{248C9E7E-2851-B810-0308-A2015BAB9318}|practicaX.csproj|solutionrelative:practicax.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{248C9E7E-2851-B810-0308-A2015BAB9318}|practicaX.csproj|c:\\users\\lenovo\\source\\repos\\practicax\\data\\infodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{248C9E7E-2851-B810-0308-A2015BAB9318}|practicaX.csproj|solutionrelative:data\\infodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{248C9E7E-2851-B810-0308-A2015BAB9318}|practicaX.csproj|c:\\users\\lenovo\\source\\repos\\practicax\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{248C9E7E-2851-B810-0308-A2015BAB9318}|practicaX.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 217,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlanetEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\practicaX\\Endpoints\\PlanetEndpoints.cs",
+              "RelativeDocumentMoniker": "Endpoints\\PlanetEndpoints.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\practicaX\\Endpoints\\PlanetEndpoints.cs",
+              "RelativeToolTip": "Endpoints\\PlanetEndpoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T00:32:31.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "practicaX",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\practicaX\\practicaX.csproj",
+              "RelativeDocumentMoniker": "practicaX.csproj",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\practicaX\\practicaX.csproj",
+              "RelativeToolTip": "practicaX.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-02T00:31:48.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InfoData.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\practicaX\\Data\\InfoData.cs",
+              "RelativeDocumentMoniker": "Data\\InfoData.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\practicaX\\Data\\InfoData.cs",
+              "RelativeToolTip": "Data\\InfoData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T00:12:56.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StarShip.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\practicaX\\Models\\StarShip.cs",
+              "RelativeDocumentMoniker": "Models\\StarShip.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\practicaX\\Models\\StarShip.cs",
+              "RelativeToolTip": "Models\\StarShip.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T00:09:23.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\practicaX\\Models\\Character.cs",
+              "RelativeDocumentMoniker": "Models\\Character.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\practicaX\\Models\\Character.cs",
+              "RelativeToolTip": "Models\\Character.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T00:06:42.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Planets.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\practicaX\\Models\\Planets.cs",
+              "RelativeDocumentMoniker": "Models\\Planets.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\practicaX\\Models\\Planets.cs",
+              "RelativeToolTip": "Models\\Planets.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T00:02:43.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\practicaX\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\practicaX\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T23:46:58.185Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
